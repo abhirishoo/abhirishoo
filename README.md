@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*XMJpV_1bcCPeh140)](https://github.com/abhirishoo)
+
 
 <h1 align="center">Hi 👋, I'm Abhijeet Rishoo</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
