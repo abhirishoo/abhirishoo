@@ -5,7 +5,7 @@
 
 - ⚡ I’m a 3rd year student pursuing bachelor's degree in **Electronics and Telecommunication**
 
-- 👨‍💻 Ihave a keen interest in **web development and building projects**
+- 👨‍💻 I have a keen interest in **web development and building projects**
 
 - 📝 I’m currently working on **both backend and frontend web development projects**
 
