@@ -3,19 +3,15 @@
 <h3 align="left">🚀Projects:</h3>
 
 1. **Sudoku Solver**
-   - Type: Public
    - Language: Go
 
 2. **URL Shortening Service**
-   - Type: Public
    - Language: HTML
 
 3. **ATM System**
-   - Type: Public
    - Language: C++
 
 4. **Docs Mini App (React Framer Motion)**
-   - Type: Public
    - Description: A simple document preview application built with React and animated using Framer Motion. It allows users to view document cards with file descriptions, file sizes, and additional information.
    - Language: JavaScript
 
