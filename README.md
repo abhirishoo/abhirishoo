@@ -1,13 +1,26 @@
 <h1 align="center">Hey,I'm Abhijeet Rishoo</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
-- ⚡ I’m a 3rd year student pursuing bachelor's degree in **Electronics and Telecommunication**
+<h3 align="left">🚀Projects:</h3>
 
-- 👨‍💻 I have a keen interest in **web development and building projects**
+1. **Sudoku Solver**
+   - Type: Public
+   - Language: Go
 
-- 📝 I’m currently working on **both backend and frontend web development projects**
+2. **URL Shortening Service**
+   - Type: Public
+   - Language: HTML
 
-- 🤝 I’m passionate about **Software Development and Full Stack Web Development projects**
+3. **ATM System**
+   - Type: Public
+   - Language: C++
+
+4. **Docs Mini App (React Framer Motion)**
+   - Type: Public
+   - Description: A simple document preview application built with React and animated using Framer Motion. It allows users to view document cards with file descriptions, file sizes, and additional information.
+   - Language: JavaScript
+
+5. **Pinterest Clone**
+   - (Current Project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
