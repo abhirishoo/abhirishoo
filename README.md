@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abhijeet Rishoo</h1>
+<h1 align="center">Hey,I'm Abhijeet Rishoo</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - ⚡ I’m a 3rd year student pursuing bachelor's degree in **Electronics and Telecommunication**
