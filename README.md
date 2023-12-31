@@ -2,8 +2,8 @@
 
 <h3 align="left">🚀Projects:</h3>
 
-1. **Sudoku Solver**
-   - Language: Go
+1. **Pinterest Clone**
+   - Project Description: This Node.js project is a feature-rich web application that employs Passport.js for user authentication, allowing seamless and secure access. Users can manage their profiles, create and share posts, and upload images using Multer. The technology stack includes Node.js, Express.js, MongoDB for database management, Passport.js for authentication, Multer for file uploads, and EJS for rendering views. Dive into this repository to explore a robust web application with user-centric features.
 
 2. **URL Shortening Service**
    - Language: HTML
@@ -15,8 +15,8 @@
    - Description: A simple document preview application built with React and animated using Framer Motion. It allows users to view document cards with file descriptions, file sizes, and additional information.
    - Language: JavaScript
 
-5. **Pinterest Clone**
-   - (Current Project)
+5. **Sudoku Solver**
+   - Language: Go
 
 
 
