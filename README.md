@@ -5,7 +5,7 @@
 1. **Pinterest Clone**
    - Project Description: This Node.js project is a feature-rich web application that employs Passport.js for user authentication, allowing seamless and secure access. Users can manage their profiles, create and share posts, and upload images using Multer. The technology stack includes Node.js, Express.js, MongoDB for database management, Passport.js for authentication, Multer for file uploads, and EJS for rendering views. Dive into this repository to explore a robust web application with user-centric features.
 
-2. **Stdio**
+2. **Studio**
 - Tech stack for Front-End Animated Website:
    HTML5, CSS3 for structure and style
    JavaScript (with frameworks/libraries)
