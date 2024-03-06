@@ -5,20 +5,12 @@
 
 1. **Box Office**
    - Project Description: Dive into Box Office, a platform seamlessly blending Bollywood and Hollywood glamour. Explore and share cinematic brilliance with top-tier features powered by React, Redux Toolkit, Axios, and more on the Front-end.
- Features: Experience dynamic user authentication, profile management, immersive post creation, and seamless image uploads.
-Technologies Used: Explore our tech stack with React, Redux Toolkit, Axios, and other tools like Vite, Tailwind CSS, and more for a cinematic tech adventure.
-Embark on a journey where technology meets the magic of cinema at Box Office! 🎬✨ #BoxOfficeTech #MovieMagic
-1. **Pinterest Clone**
-   - Project Description: This Node.js project is a feature-rich web application that employs Passport.js for user authentication, allowing seamless and secure access. Users can manage their profiles, create and share posts, and upload images using Multer. The technology stack includes Node.js, Express.js, MongoDB for database management, Passport.js for authentication, Multer for file uploads, and EJS for rendering views. Dive into this repository to explore a robust web application with user-centric features.
 
+1. **Pinterest Clone**
+   - Project Description: This Node.js project is a feature-rich web application that employs Passport.js for user authentication, allowing seamless and secure access.
 2. **Studio**
 - Tech stack for Front-End Animated Website:
-   HTML5, CSS3 for structure and style
-   JavaScript (with frameworks/libraries)
-   Animation: GSAP, Anime.js
-   Responsive Design
-   Version Control: Git
-Hosting: GitHub Pages
+
 
 
 <h3 align="center">Languages and Tools:</h3>
