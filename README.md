@@ -1,6 +1,6 @@
 <h1 align="center">Hey,I'm Abhijeet Rishoo</h1>
 
-<h3 align="left">🚀Projects:</h3>
+<h2 align="left">🚀Projects:</h2>
 
 
 1. **Medium Blog**
