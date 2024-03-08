@@ -4,9 +4,9 @@
 
 
 1. **Medium Blog**
-   - 🌐 Description: Blogging Website inspired from Medium
+   - Description: Blogging Website inspired from Medium
 
-   - 🔐 Features: Experience secure authentication, user-friendly profiles, immersive posts, Powered by Cloudflare, with Prisma for optimized data handling, React for a stunning frontend, and Zod for robust validation. 
+   - Features: Experience secure authentication, user-friendly profiles, immersive posts, Powered by Cloudflare, with Prisma for optimized data handling, React for a stunning frontend, and Zod for robust validation. 
 1. **Box Office**
    - Project Description: Dive into Box Office, a platform seamlessly blending Bollywood and Hollywood glamour. Explore and share cinematic brilliance with top-tier features powered by React, Redux Toolkit, Axios, and more on the Front-end.
 
