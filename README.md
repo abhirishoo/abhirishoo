@@ -5,10 +5,9 @@
 
 1. **Medium Blog**
    - Description: Blogging Website inspired from Medium
-
-   - Features: Experience secure authentication, user-friendly profiles, immersive posts, Powered by Cloudflare, with Prisma for optimized data handling, React for a stunning frontend, and Zod for robust validation. 
+   - Features: Experience secure authentication, user-friendly profiles, immersive posts, Powered by Cloudflare, with Prisma for optimized data handling, React for a stunning frontend, and Zod for robust validation. (https://medium-blog-five.vercel.app/)
 1. **Box Office**
-   - Project Description: Dive into Box Office, a platform seamlessly blending Bollywood and Hollywood glamour. Explore and share cinematic brilliance with top-tier features powered by React, Redux Toolkit, Axios, and more on the Front-end.
+   - Project Description: Dive into Box Office, a platform seamlessly blending Bollywood and Hollywood glamour. Explore and share cinematic brilliance with top-tier features powered by React, Redux Toolkit, Axios, and more on the Front-end.(https://box-office-react-app.vercel.app/)
 
 1. **Pinterest Clone**
    - Project Description: This Node.js project is a feature-rich web application that employs Passport.js for user authentication, allowing seamless and secure access.
