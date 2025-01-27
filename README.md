@@ -14,6 +14,12 @@ KPIT Technologies is a leading global partner for the automotive and mobility in
 
 ---
 
+### Current Focus:
+- Learning **Automotive Embedded Systems** as part of the KPIT NOVA Program.  
+- Strengthening skills in **Data Structures & Algorithms (DSA)**.  
+
+---
+
 ### Skills:
 #### Programming & Development  
 <p>
@@ -27,21 +33,11 @@ KPIT Technologies is a leading global partner for the automotive and mobility in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="25" height="25"/> 
 </p>
 
-#### Databases  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="25" height="25"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25"/> 
-</p>
 
 ---
 
-### Current Focus:
-- Learning **Automotive Embedded Systems** and **CAN Protocols** as part of the KPIT NOVA Program.  
-- Strengthening skills in **Data Structures & Algorithms (DSA)**.  
-
----
 
 ### Connect with Me:
-- **Email**: support@thebearhouse.com  
+- **Email**: abhi.rishoo2003@gmail.com  
 - **GitHub**: [github.com/abhijeet-rishoo](https://github.com/abhijeet-rishoo)  
 - **LinkedIn**: [linkedin.com/in/abhijeet-rishoo](https://linkedin.com/in/abhijeet-rishoo)  
