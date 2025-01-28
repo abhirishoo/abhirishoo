@@ -1,6 +1,5 @@
 <h1 align="center">Associate Engineer at KPIT Technologies</h1>
 
----
 
 ### About Me:
 - **Currently Training** in the **KPIT NOVA Program**, focusing on **C** and **Embedded C** for automotive systems.  
