@@ -1,17 +1,12 @@
-<h1 align="center">Associate Engineer at KPIT Technologies</h1>
+<h1 align="center">Associate Engineer</h1>
 
 
 ### About Me:
-- **Currently Training** in the **KPIT NOVA Program**, focusing on **C** and **Embedded C** for automotive systems.  
 - Passionate about **Embedded Systems**, **Automotive Software Development**, and leveraging technology for innovation.  
 - **B.Tech Graduate** in Electronics and Telecommunication from KIIT University.  
 
 ---
 
-### About KPIT:
-KPIT Technologies is a leading global partner for the automotive and mobility industry, specializing in areas like **Autonomous Driving**, **Electrification**, and **Automotive Embedded Systems**.
-
----
 
 ### Current Focus:
 - Learning **Automotive Embedded Systems** as part of the KPIT NOVA Program.  
